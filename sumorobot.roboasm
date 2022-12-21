@@ -1,0 +1,219 @@
+history: 
+  - 
+    initial-parts: true
+    parts-name: ax-12a-f3-p_269_76
+    parts-type: ax-12a-f3-p
+  - 
+    parent: ax-12a-f3-p_269_76
+    parent-point: p1_0_3
+    parts-name: plate_6_12_269_77
+    parts-point: SK1_5_0
+    parts-type: plate_6_12
+  - 
+    parent: plate_6_12_269_77
+    parent-point: SK1_5_9
+    parts-name: ax-12a-f3-p_269_79
+    parts-point: p1_0_3
+    parts-type: ax-12a-f3-p
+  - 
+    parent: ax-12a-f3-p_269_79
+    parent-point: f3_servo
+    parts-name: mx-12w_269_80
+    parts-point: left-side1
+    parts-type: mx-12w
+  - 
+    parent: mx-12w_269_80
+    parent-point: horn
+    parts-name: omni-shaft_269_83
+    parts-point: horn-f
+    parts-type: omni-shaft
+  - 
+    parent: omni-shaft_269_83
+    parent-point: wheel-shaft
+    parts-name: omni-wheel_269_84
+    parts-point: omni_wheel
+    parts-type: omni-wheel
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, 1.000000000000, 1.570796326795 ]
+    parent: plate_6_12_269_77
+    parent-point: PL1_5_0
+    parts-name: plate_6_12_107_1
+    parts-point: SK1_0_0
+    parts-type: plate_6_12
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: plate_6_12_107_1
+    parent-point: PL1_1_4
+    parts-name: angle_2_2_79_0
+    parts-point: s_0_1
+    parts-type: angle_2_2
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: angle_2_2_79_0
+    parent-point: p_0_0
+    parts-name: sensor-mounter_79_1
+    parts-point: s1_0_2
+    parts-type: sensor-mounter
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, 1.000000000000, 3.141592653590 ]
+    parent: sensor-mounter_79_1
+    parent-point: lego-2p
+    parts-name: ultrasonic-sensor_79_6
+    parts-point: lego-2s
+    parts-type: ultrasonic-sensor
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: plate_6_12_269_77
+    parent-point: PL1_5_11
+    parts-name: plate_6_12_107_0
+    parts-point: SK1_0_11
+    parts-type: plate_6_12
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: plate_6_12_107_0
+    parent-point: PL1_0_4
+    parts-name: angle_2_2_79_4
+    parts-point: s_0_0
+    parts-type: angle_2_2
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, 1.000000000000, 1.570796326795 ]
+    parent: plate_6_12_107_0
+    parent-point: SK1_0_5
+    parts-name: plate_6_12_107_2
+    parts-point: PL1_5_11
+    parts-type: plate_6_12
+  - 
+    parent: plate_6_12_107_2
+    parent-point: SK1_3_9
+    parts-name: ax-12a-f3-p_107_4
+    parts-point: p1_0_3
+    parts-type: ax-12a-f3-p
+  - 
+    parent: ax-12a-f3-p_107_4
+    parent-point: f3_servo
+    parts-name: mx-12w_107_3
+    parts-point: right-side4
+    parts-type: mx-12w
+  - 
+    parent: mx-12w_107_3
+    parent-point: horn
+    parts-name: omni-shaft_107_8
+    parts-point: horn-f
+    parts-type: omni-shaft
+  - 
+    parent: omni-shaft_107_8
+    parent-point: wheel-shaft
+    parts-name: omni-wheel_107_9
+    parts-point: omni_wheel
+    parts-type: omni-wheel
+  - 
+    parent: plate_6_12_107_2
+    parent-point: SK1_0_0
+    parts-name: ax-12a-f3-p_107_5
+    parts-point: p1_0_0
+    parts-type: ax-12a-f3-p
+  - 
+    parent: ax-12a-f3-p_107_5
+    parent-point: f3_servo
+    parts-name: mx-12w_107_6
+    parts-point: left-side3
+    parts-type: mx-12w
+  - 
+    parent: mx-12w_107_6
+    parent-point: horn
+    parts-name: omni-shaft_107_7
+    parts-point: horn-f
+    parts-type: omni-shaft
+  - 
+    parent: omni-shaft_107_7
+    parent-point: wheel-shaft
+    parts-name: omni-wheel_107_10
+    parts-point: omni_wheel
+    parts-type: omni-wheel
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, 1.000000000000, 3.141592653590 ]
+    parent: plate_6_12_107_0
+    parent-point: PL1_3_11
+    parts-name: angle_2_2_79_3
+    parts-point: s_1_0
+    parts-type: angle_2_2
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: angle_2_2_79_3
+    parent-point: p_0_0
+    parts-name: sensor-mounter_79_8
+    parts-point: s1_0_2
+    parts-type: sensor-mounter
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, 1.000000000000, 3.141592653590 ]
+    parent: sensor-mounter_79_8
+    parent-point: lego-2p
+    parts-name: ultrasonic-sensor_79_9
+    parts-point: lego-2s
+    parts-type: ultrasonic-sensor
+  - 
+    parent: plate_6_12_107_0
+    parent-point: PL1_4_1
+    parts-name: angle_2_2_79_2
+    parts-point: s_1_1
+    parts-type: angle_2_2
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: angle_2_2_79_2
+    parent-point: p_0_1
+    parts-name: sensor-mounter_79_5
+    parts-point: s1_2_2
+    parts-type: sensor-mounter
+  - 
+    parent: sensor-mounter_79_5
+    parent-point: lego-2p
+    parts-name: ultrasonic-sensor_79_7
+    parts-point: lego-2s
+    parts-type: ultrasonic-sensor
+  - 
+    parent: ax-12a-f3-p_269_76
+    parent-point: f3_servo
+    parts-name: mx-12w_269_75
+    parts-point: right-side1
+    parts-type: mx-12w
+  - 
+    parent: mx-12w_269_75
+    parent-point: horn
+    parts-name: omni-shaft_269_85
+    parts-point: horn-f
+    parts-type: omni-shaft
+  - 
+    parent: omni-shaft_269_85
+    parent-point: wheel-shaft
+    parts-name: omni-wheel_269_86
+    parts-point: omni_wheel
+    parts-type: omni-wheel
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, -1.000000000000, 1.570796326795 ]
+    parent: angle_2_2_79_4
+    parent-point: p_0_0
+    parts-name: sensor-mounter_79_10
+    parts-point: s1_0_2
+    parts-type: sensor-mounter
+  - 
+    connecting-offset: 
+      rotation: [ 0.000000000000, 0.000000000000, 1.000000000000, 3.141592653590 ]
+    parent: sensor-mounter_79_10
+    parent-point: lego-2p
+    parts-name: ultrasonic-sensor_79_11
+    parts-point: lego-2s
+    parts-type: ultrasonic-sensor
+robot-info: 
+  name: ax-12a-f3-p
